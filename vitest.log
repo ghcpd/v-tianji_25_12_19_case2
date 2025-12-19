@@ -1,0 +1,11 @@
+﻿
+[7m[1m[36m RUN [39m[22m[27m [36mv1.6.1[39m [90mC:/Users/v-tianji/Desktop/ghcpd/oswe-mini-prime-new[39m
+
+ [32m鉁?[39m src/tests/priceCalculation.test.tsx[2m > [22mPrice calculation[2m > [22mpremium seat adds surcharge
+ [32m鉁?[39m src/tests/seatSelector.test.tsx[2m > [22mSeat selection and booking flow[2m > [22muser can select seats and see booking in history[33m 513[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m2 passed[39m[22m[90m (2)[39m
+[2m      Tests [22m [1m[32m2 passed[39m[22m[90m (2)[39m
+[2m   Start at [22m 14:22:44
+[2m   Duration [22m 6.62s[2m (transform 257ms, setup 587ms, collect 2.08s, tests 751ms, environment 5.69s, prepare 2.01s)[22m
+
