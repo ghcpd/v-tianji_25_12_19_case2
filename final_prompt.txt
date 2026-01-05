@@ -1,1 +1,44 @@
 Prompt
+
+Problem Statement:
+I want a movie theater ticket booking web app where users can browse movies, view showtimes, select seats, purchase tickets, and view booking history.  Build a small, modern, visually polished, interactive Web UI project from scratch using Vue or React (your choice).
+
+Requirements:
+Create a complete, runnable project from zero.
+
+The application should be frontend-only and use mock or in-memory data (no real backend required).
+
+Implement a clean, well-structured component architecture with clear state management for movies, showtimes, seat selection, orders, and user interactions.
+
+Support core ticketing interactions such as seat map selection, price calculation, ticket quantity management, and booking confirmation states.
+
+Generate full unit test coverage that verifies core UI logic, interactions, and state transitions.
+
+All tests must be executed and pass successfully.
+
+Run the project to ensure it boots and functions correctly.
+
+If any step fails, debug, fix, and re-run until everything passes.
+
+Do not assume success—treat this as a real execution environment.
+
+Deliverables:
+Full project structure
+
+All source code files
+
+All test files
+
+All configuration files
+
+Commands used to install dependencies, run tests, and start the development server
+
+Logs from running tests and launching the dev server
+
+A short summary after a successful run
+
+Title:
+Movie Theater Ticket Booking Web UI Generation & Full Test Execution
+
+Description:
+This task evaluates the model’s ability to design and implement a complete, modern, and visually refined movie theater ticket booking interface from scratch.  The application should support browsing movies, selecting showtimes and seats, completing ticket purchases, and reviewing booking history, with strong attention to usability and interaction details.  The model is expected to follow a realistic development workflow: building the UI, managing application state, writing and executing unit tests, iteratively fixing issues, and successfully launching the final application in a runnable state.
